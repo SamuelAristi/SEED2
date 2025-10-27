@@ -1,0 +1,34 @@
+✅ SCRIPT LISTO PARA EJECUTAR
+
+Tu script insert-sample-data.sql ya está configurado con tus IDs:
+
+📋 IDs Configurados:
+- Usuario: 7aae6553-bc2a-4ded-9487-a611f84c2f99
+- Sensor: 2b84e75c-c71f-4f4b-835f-be7bf5ede38a (Humedad Zona A)
+- Cultivo: f63f8da8-178b-4057-9659-b6ab1e7f44ca
+- Ubicación: 3fe0e3d6-62de-466b-9323-a7aaf12966dd (Invernadero central)
+
+🚀 PASOS PARA EJECUTAR:
+
+1. Abre Supabase (https://supabase.com)
+2. Ve a tu proyecto → SQL Editor
+3. Abre el archivo: insert-sample-data.sql
+4. Copia TODO el contenido
+5. Pégalo en el SQL Editor de Supabase
+6. Haz clic en "Run" (o Ctrl + Enter)
+7. Espera 5-10 segundos...
+8. ¡Recarga tu Dashboard!
+
+📊 Datos que se crearán:
+✓ 720 registros de sensores (30 días, 1 por hora)
+✓ 4 alertas (3 activas, 1 resuelta)
+✓ 2 sesiones de monitoreo
+
+⏱️ Tiempo de ejecución: ~10 segundos
+
+🎯 Resultado:
+Después de ejecutar, tu dashboard mostrará:
+- Gráficos llenos con datos históricos
+- 3 alertas activas visibles
+- Tendencias de temperatura y humedad
+- Estadísticas realistas
